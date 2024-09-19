@@ -5,6 +5,7 @@ ENV/
 env/
 venv.bak/
 .venv/
+.venv
 
 # Ignorar arquivos de compilação do Python
 *.pyc
