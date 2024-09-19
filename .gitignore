@@ -1,0 +1,22 @@
+# Ignorar o diretório de ambiente virtual
+venv/
+Venv/
+ENV/
+env/
+venv.bak/
+.venv/
+
+# Ignorar arquivos de compilação do Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.env
+
+# Ignorar logs e arquivos temporários
+*.log
+*.tmp
+
+# Arquivos do sistema operacional (macOS e Windows)
+.DS_Store
+Thumbs.db
